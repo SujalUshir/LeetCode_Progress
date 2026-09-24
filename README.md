@@ -13,5 +13,14 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SujalUshir/LeetCode_Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
