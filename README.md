@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0036-valid-sudoku) |
+| [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SujalUshir/LeetCode_Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SujalUshir/LeetCode_Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -44,4 +45,21 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
