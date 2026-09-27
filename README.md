@@ -37,6 +37,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
