@@ -20,6 +20,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0036-valid-sudoku) |
+| [0119-pascals-triangle-ii](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SujalUshir/LeetCode_Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SujalUshir/LeetCode_Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -81,4 +82,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
