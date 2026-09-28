@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0036-valid-sudoku) |
 | [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SujalUshir/LeetCode_Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -53,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
