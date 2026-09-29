@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0202-happy-number) |
 | [1518-water-bottles](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1518-water-bottles) |
@@ -50,10 +51,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
