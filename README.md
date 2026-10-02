@@ -44,6 +44,7 @@
 | [0006-zigzag-conversion](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
@@ -90,11 +92,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
