@@ -9,6 +9,7 @@
 | [0089-gray-code](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0202-happy-number) |
+| [1154-day-of-the-year](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1175-prime-arrangements) |
 | [1518-water-bottles](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1518-water-bottles) |
 | [2965-find-missing-and-repeated-values](https://github.com/SujalUshir/LeetCode_Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -49,6 +50,7 @@
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
