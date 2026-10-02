@@ -9,6 +9,7 @@
 | [0089-gray-code](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0202-happy-number) |
+| [1175-prime-arrangements](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1175-prime-arrangements) |
 | [1518-water-bottles](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1518-water-bottles) |
 | [2965-find-missing-and-repeated-values](https://github.com/SujalUshir/LeetCode_Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SujalUshir/LeetCode_Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -101,4 +102,16 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
