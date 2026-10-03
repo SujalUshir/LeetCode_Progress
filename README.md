@@ -51,6 +51,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0168-excel-sheet-column-title) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/SujalUshir/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 ## Primality Test
 |  |
